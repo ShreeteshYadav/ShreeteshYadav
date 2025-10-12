@@ -9,6 +9,7 @@
 - 🔭 Currently working on **Improving Myslef Everyday**
 - 🌱 Learning **Data Science**
 - 👯 Looking to collaborate on **Open Source Projects**
+- 👨‍💻 Learning **Cyber Security** [recently started]
 
 ## 🐱 Coding Companions - 3D Cats
 
