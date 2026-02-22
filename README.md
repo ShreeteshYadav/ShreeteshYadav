@@ -7,9 +7,8 @@
 ### Passionate Developer & Problem Solver 💻✨
 
 - 🔭 Currently working on **Improving Myslef Everyday**
-- 🌱 Learning **Data Science**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 👨‍💻 Learning **Cyber Security** [recently started]
+- 🌱 Learning :- **Data Science**, **DevOps**, **Cloud**, **Cyber Security** 
+- 👯 Looking to collaborate on **Open Source Projects** 
 
 ## 🐱 Coding Companions - 3D Cats
 
@@ -32,7 +31,7 @@
   <em>Fuel for coding! ☕</em>
 </td>
 <td align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150" /><br>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21uejdvMG05NngwdXdjZnV3ZGdzbmRjb2Vrc2s3cHJ6dm4yMzNnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFShsWCPGWkcKyydjY/giphy.gif" width="150" /><br>
   <b>Thinking Cat</b><br>
   <em>Algorithm master! 🧠</em>
 </td>
@@ -54,11 +53,11 @@
 ## ⌨️ What I'm Coding
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Python+and+Data+Science+%F0%9F%9A%80;Code+Alchemist+%E2%9C%A8;Building+Amazing+Things+%F0%9F%8C%9F;Coffee+%2B+Code+%3D+Magic+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines= DataScience and DevOps +%F0%9F%9A%80;Code+Alchemist+%E2%9C%A8;Building+Amazing+Things+%F0%9F%8C%9F;Coffee+%2B+Code+%3D+Magic+%E2%98%95" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Learning+new+technologies+daily;Open+to+collaboration;Always+ready+for+challenges" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Learning+new+technologies+daily;Always+ready+for+challenges" alt="Typing SVG" />
 </div>
 
 ## 💭 Daily Quote
